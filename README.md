@@ -40,21 +40,20 @@
 |Date||Desc||
 |:---------:|:--------------:|:--------------:|:--------------:|
 |||*__Oktober__*||
-|05.10|&#x1F536;| Vorbesprechung, Gruppeneinteilung, Organisatorisches  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
-|12.10|&#x1F536;| Quick Tutorials, Requirements Workshop |&#x1F536;|
+|06.10|&#x1F536;| Vorbesprechung, Team Einteilung, Organisatorisches  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
+|13.10|&#x1F536;| Anforderungsworkshop, Teampräsentationen |&#x1F536;|
+|27.10|&#x1F536;| Präsentation Prototype, Java FX |&#x1F536;|
 |||*__November__*||
-|09.11|&#x1F536;| Präsentation UI Prototyp |&#x1F536;|
-|20.11|&#x1F4D8;| Mon. 12.00 - Release 1 |  &#x1F4D8;||14.11|&#x1F4D8;| Mon. 12.00 - Release 1 |  &#x1F4D8;|
-|23.11|&#x1F536; |Release 1 Review |&#x1F536;|
-|30.11|&#x1F539;| Individual Group Meetings|&#x1F539;|
+|13.11|&#x1F4D8;| Mon. 12.00 - Release 1 |  &#x1F4D8;|
+|17.11|&#x1F536; |Release 1 Review |&#x1F536;|
 |||*__Dezember__*||
 |11.12|&#x1F4D8;| Mon. 12.00 - Release 2 |&#x1F4D8;|
-|14.12|&#x1F536;| Release 2 Review |&#x1F536;|
+|15.12|&#x1F536;| Release 2 Review |&#x1F536;|
 |||*__Jänner__*||
-|11.01|&#x1F539;| Individual Group Meetings|&#x1F539;|
-|22.01|&#x1F4D8;| Mon. 12.00 - Release 3| &#x1F4D8;|
-|25.01|&#x1F536;| Release 3 Review, Final Presentation |&#x1F536;|
+|12.01|&#x1F539;| Individual Group Meetings|&#x1F539;|
+|15.01|&#x1F4D8;| Mon. 12.00 - Release 3| &#x1F4D8;|
+|19.01|&#x1F536;| Release 3 Review, Final Presentation |&#x1F536;|
 |||*__Februar__*||
-|12.02|&#x1F4D8;| Finale Projektabgabe |&#x1F4D8;|
+|xx.02|&#x1F4D8;| Finale Projektabgabe |&#x1F4D8;|
 
  
