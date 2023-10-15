@@ -38,8 +38,8 @@
 |Date||Desc||
 |:---------:|:--------------:|:--------------:|:--------------:|
 |||*__Oktober__*||
-|06.10|&#x1F536;| Vorbesprechung, Team Einteilung, Organisatorisches  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
-|13.10|&#x1F536;| Anforderungsworkshop, Teampräsentationen |&#x1F536;|
+|06.10|:white_check_mark:| Vorbesprechung, Team Einteilung, Organisatorisches  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     |&#x1F536;|
+|13.10|:white_check_mark:| Anforderungsworkshop, Teampräsentationen |&#x1F536;|
 |27.10|&#x1F536;| Präsentation Prototype, Java FX |&#x1F536;|
 |||*__November__*||
 |14.11|&#x1F4D8;| Di. 12.00 - Release 1 |  &#x1F4D8;|
