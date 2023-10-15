@@ -9,17 +9,15 @@
 
 ## Readme and Wiki Pages:
 
-[Git und GitHub](/wiki/git/README.md)
+[Git](/wiki/git/README.md)
 
-[Issue Management](/wiki/issues/README.md)
-
-[Maven](/wiki/maven/README.md) 
+[GitHub und Clockify](/wiki/issues/README.md)
 
 [UML Tools](/wiki/uml/README.md) 
 
 [UI Prototyping Tools](/wiki/uiprototype/README.md) 
 
-[GitHub Actions](/wiki/actions/README.md) 
+[Maven und GitHub Actions](/wiki/automation/README.md) 
 
 
 
