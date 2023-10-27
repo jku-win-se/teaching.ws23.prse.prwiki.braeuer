@@ -18,8 +18,8 @@
 
 [UI Prototyping Tools](/wiki/uiprototype/README.md) 
 
-[Maven und GitHub Actions](/wiki/automation/README.md) 
-
+[Maven und GitHub Actions](/wiki/automation/README.md)
+  - [Java bauen und testen mit Maven](/wiki/automation/mvn-gh-action.md)
 
 
 ## Useful Links:
