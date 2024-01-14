@@ -5,7 +5,7 @@
 - Slides: [/slides](/slides) 
 - User Stories: [Projektbeschreibung](documents/Projektbeschreibung.pdf) 
 - Release Präsentationen: [Templates](/templates)
-- Projektdokumentation Template: [Template](https://github.com/jku-win-se/teaching.ws23.prse.prwiki/raw/main/documents/VorlageProjektdokumentation.docx) 
+- Projektdokumentation Template: [Vorlage Projektdokumentation](documents/VorlageProjektdokumentation.docx) 
 
 
 ## Readme and Wiki Pages:
